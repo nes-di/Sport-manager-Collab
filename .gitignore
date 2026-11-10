@@ -1,0 +1,16 @@
+# .NET build outputs
+**/bin/
+**/obj/
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
